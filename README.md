@@ -1,2 +1,2 @@
 # spinwheel
-A static site generator written in Ruby
+A static site generator application written in Ruby
